@@ -1,3 +1,5 @@
+//constante e let//
+
 const numero1 = 1;
 let numero2 = 2;
 
